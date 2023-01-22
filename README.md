@@ -1,2 +1,17 @@
-# umich-applied-data-science
-University Of Michigan - Applied Data Science with Python
+# University of Michigan - Applied Data Science
+
+The 5 courses in this University of Michigan specialization introduce learners to data science through the python
+programming language. This skills-based specialization is intended for learners who have a basic python or programming
+background, and want to apply statistical, machine learning, information visualization, text analysis, and social
+network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx
+to gain insight into their data.
+
+## Table of Contents
+
+<!-- TOC -->
+
+* [University of Michigan - Applied Data Science](#university-of-michigan---applied-data-science)
+    * [Table of Contents](#table-of-contents)
+
+<!-- TOC -->
+
